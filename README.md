@@ -4,9 +4,9 @@
 > regression, Random Forest, svm, CNN 등 machine learning 모델 구현 및 공부
 
 ## Butterfly_CNN result
-<img width="80%" src="https://github.com/DeveloperSeJin/Study_machine_learning/assets/114290488/7e46444f-4254-45eb-ae76-0a4550d4ca58.jpg">
+<img width="85%" src="https://github.com/DeveloperSeJin/Study_machine_learning/assets/114290488/7e46444f-4254-45eb-ae76-0a4550d4ca58.jpg">
 
-<img width="80%" src="(ttps://github.com/DeveloperSeJin/Study_machine_learning/assets/114290488/a3dd4abe-0f1d-42cc-ab79-cf313e9fda3c">
+<img width="85%" src="(ttps://github.com/DeveloperSeJin/Study_machine_learning/assets/114290488/a3dd4abe-0f1d-42cc-ab79-cf313e9fda3c">
 
 ## wine classifiy
 
