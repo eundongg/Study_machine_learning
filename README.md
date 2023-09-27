@@ -1,7 +1,7 @@
 Study-machine-learning
 
 ## 프로젝트 요약
-> regression, Random Forest, svm, CNN 등 ML에 대한 공부
+> regression, Random Forest, svm, CNN 등 machine learning 모델 구현 및 공부
 
 ## Butterfly_CNN result
 <img width="80%" src="https://github.com/DeveloperSeJin/Study_machine_learning/assets/114290488/7e46444f-4254-45eb-ae76-0a4550d4ca58.jpg">
