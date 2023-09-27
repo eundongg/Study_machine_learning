@@ -1,4 +1,4 @@
-Study-machine-learning
+# Study-machine-learning
 
 ## 프로젝트 요약
 > regression, Random Forest, svm, CNN 등 machine learning 모델 구현 및 공부
